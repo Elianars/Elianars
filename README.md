@@ -20,3 +20,4 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eliana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliana-souzarr/)](https://www.linkedin.com/in/eliana-souzarr/)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
