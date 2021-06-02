@@ -1,6 +1,6 @@
 <h1>Olá, sou a Eliana</h1>
 <p>Sou Formada em Tecnologia em Gestão da Qualidade. Empreendedora, Gosto de ler sobre vários assuntos principalmente os que envolvem tecnologia e seus impactos no futuro e conteúdos que exprimem ideias diferentes da minha, acredito que devemos sempre analisar os dois lados. </p>
-<p><img  align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622658317204.png" /></p>
+
 
 <center>
 <table>
