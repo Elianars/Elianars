@@ -6,8 +6,8 @@
 <table>
     <tr>
         <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elianars&hide=html&layout=compact&theme=omni" /></td>
-        <td><img width="380px" align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622658317204.png" /></td>
         <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=Elianars&theme=omni"/></td>
+        <td><img width="380px" align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622658317204.png" /></td>
     </tr>   
 </table>
 </center>  
