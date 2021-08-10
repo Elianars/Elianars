@@ -1,6 +1,6 @@
 <h1>Olá, sou a Eliana</h1>
-<p>Sou Formada em Tecnologia em Gestão da Qualidade. Empreendedora, Gosto de ler sobre vários assuntos principalmente os que envolvem tecnologia e seus impactos no futuro e conteúdos que exprimem ideias diferentes da minha, acredito que devemos sempre analisar os dois lados. </p>
-
+<p> Empreendedora,curiosa,protagonista nos meus estudos busco sempre por conhecimento, gosto de ler sobre vários assuntos principalmente os que envolvem tecnologia e seus impactos no futuro e conteúdos que exprimem ideias diferentes da minha.
+Estudande do curso Desenvolvimento de Software Mutiplataforma (Fatec)
 
 <center>
 <table>
