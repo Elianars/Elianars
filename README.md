@@ -1,5 +1,6 @@
 <h1>Olá, sou a Eliana</h1>
 <p> Empreendedora,curiosa,protagonista nos meus estudos busco sempre por conhecimento, gosto de ler sobre vários assuntos principalmente os que envolvem tecnologia e seus impactos no futuro e conteúdos que exprimem ideias diferentes da minha.
+    
 Estudande do curso Desenvolvimento de Software Mutiplataforma (Fatec)
 
 <center>
